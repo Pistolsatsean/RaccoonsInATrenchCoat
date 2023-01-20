@@ -1,2 +1,2 @@
-# Git
+# Current UEP repo for RIATC
  
