@@ -1,0 +1,6 @@
+2023/02/01-19:53:44.969 2d44 Creating DB C:/Users/seanm/OneDrive/Documents/Unreal Projects/Excaballers/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/01-19:53:44.991 2d44 Reusing MANIFEST C:/Users/seanm/OneDrive/Documents/Unreal Projects/Excaballers/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-20:40:05.058 168c Level-0 table #5: started
+2023/02/01-20:40:05.064 168c Level-0 table #5: 7343 bytes OK
+2023/02/01-20:40:05.068 168c Delete type=0 #3
+2023/02/01-20:40:05.069 168c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
